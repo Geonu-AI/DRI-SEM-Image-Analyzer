@@ -1,4 +1,4 @@
-# DRI-SEM-Image-Analyzer
+# DRI SEM Backscattered Electron Image Analyzer
 
 > Direct Reduced Iron, Phase Identification, Image Processing, Mechanical Properties of DRI
 
