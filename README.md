@@ -28,3 +28,7 @@ The strength of DRI can be estimated using the BSE image of DRI cross-section (*
 ## Getting Started
 
 Please run ‘**App.py**’ at the interpreter of python 3 including necessary modules. As a dry run, ‘DRI_Image_1.jpg’, ‘DRI_Image_2.jpg’, and ‘DRI_Image_3.jpg’ are attached. Please open these files to operate calculations. Open this file first, then use GUI buttons as follows: [image filtering], [calculate porosity], [calculate portion of iron], [calculate portion of iron oxide], [calculate portion of gangue], and [calculate strength].
+
+## Acknowledged
+
+I would like to acknowledge the use of the Materials Characterization Facility at Carnegie Mellon University under grant # MCF-677785.
